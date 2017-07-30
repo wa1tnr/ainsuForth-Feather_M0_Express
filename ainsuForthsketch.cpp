@@ -1,5 +1,5 @@
-// Sat Jul 29 23:45:03 UTC 2017
-// 4735-b0b-05-
+// Sun Jul 30 02:55:32 UTC 2017
+// 4735-b0b-09-
 
 // poor practice -- hard coded the answer:
 #ifdef HAS_DOTSTAR_LIB
@@ -201,9 +201,10 @@ void setup(void) {
   
   // Serial.print("\n warm boot message - early bird.  //  Gemma M0 29 Jul 2017\r\n          type 'warm' to reboot"); // instant confirmation
   // Serial.print("\n warm boot message - early bird.  //  Adafruit CPlay Express (CPX)\r\n      snapshot 29 Jul 2017\r\n          type 'warm' to reboot"); // instant confirmation
-  Serial.print("\n warm boot message - early bird.  //  Adafruit Metro M0 Express\r\n      snapshot 30 Jul 2017\r\n          type 'warm' to reboot"); // instant confirmation
+  // Serial.print("\n warm boot message - early bird.  //  Adafruit Metro M0 Express\r\n      snapshot 30 Jul 2017\r\n          type 'warm' to reboot"); // instant confirmation
+  Serial.print("\n warm boot message - early bird.  //  Adafruit Feather M0 Express\r\n      snapshot 30 Jul 2017\r\n          type 'warm' to reboot"); // instant confirmation
 
-  // Serial.println("\r\nainsuForth -- main dev -- SEEN.\r\n    KELEFICOO  21:10z or later.\r\n");
+  // Serial.println("\r\nainsuForth -- main dev -- SEEN.\r\n   QUAVRO  MUVAK  03:25z or later.\r\n");
 
   delay(9 * 100); // 900 ms - optional - useful when coded for a 4+ second delay
                   // to give the operator time to task switch from upload
